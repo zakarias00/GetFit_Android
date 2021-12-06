@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">GetFit</string>
+    <string name="or">OR</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">Login</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="name">Name:</string>
+    <string name="username">Username:</string>
+    <string name="registration">Registration</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="weekly_goals">Weekly goals</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="points">points</string>
+    <string name="weight">Weight:</string>
+    <string name="height">Height:</string>
+    <string name="your_current_status">Your current status:</string>
+    <string name="level">Level</string>
+    <string name="hours_of_sport_activities">Hours of sport activities:</string>
+    <string name="distance_of_running">Distance of running:</string>
+    <string name="statistics_about_your_week">Statistics about your week</string>
+    <string name="change_goal">Change goal</string>
+    <string name="weekly_activities">Weekly activities</string>
+    <string name="active_days">Active days</string>
+    <string name="your_weekly_goal">Your weekly goal</string>
+    <string name="active_days_completed">active days completed</string>
+    <string name="your_almost_reached_your_goal_keep_going">Your almost reached your goal! Keep going!</string>
+    <string name="change">Change</string>
+    <string name="Add">Button</string>
+    <string name="please_enter_the_data_for_the_new_sport">Please enter the data for the new sport!</string>
+    <string name="kcal">Kcal:</string>
+    <string name="type">Type:</string>
+    <string name="ok">OK</string>
+    <string name="please_enter_the_new_height_data">Please enter the new height data!</string>
+    <string name="please_enter_the_new_weight_data">Please enter the new weight data!</string>
+    <string name="add">ADD</string>
+    <string name="please_enter_the_new_goal_data">Please enter the new goal data!</string>
+    <string name="days_week">days/week</string>
+    <string name="set">SET</string>
+    <string name="please_add_the_details_of_the_new_activity">Please add the details of the new activity!</string>
+    <string name="duration">Duration:</string>
+    <string name="date">Date:</string>
+    <string name="pick_a_date">PICK A DATE</string>
+    <string name="distance">Distance:</string>
+    <string name="please_complete_your_profile_data">Please complete your profile data!</string>
+    <string name="birthdate">Birthdate:</string>
+    <string name="gender">Gender:</string>
+    <string name="choose_a_date">Choose a date</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="please_select_a_date">Please select a date!</string>
+    <string name="log_out">Log out</string>
+    <string name="textview">TextView</string>
+    <string name="burned_calories">Burned calories:</string>
+    <string name="set_goal">Set goal</string>
+
+    <string-array name="sports_array">
+        <item>All</item>
+        <item>Tanci</item>
+        <item>Futas</item>
+        <item>Basketball</item>
+        <item>Gyuri</item>
+        <item>Swimming</item>
+        <item>skating</item>
+    </string-array>
+
+    <string-array name="genders">
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+
+</resources>
